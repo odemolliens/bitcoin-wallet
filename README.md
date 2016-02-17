@@ -16,3 +16,7 @@ This project contains several sub-projects:
 You can build all sub-projects at once using Gradle:
 
 `gradle clean build`
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/odemolliens/bitcoin-wallet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
